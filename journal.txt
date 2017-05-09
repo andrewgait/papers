@@ -29,3 +29,8 @@ The simulations did a fair job of approximating the measurements.
 Conclusions:
 We found out some stuff. Splendid. Science has advanced,
 but we haven't stopped yet.
+
+Acknowledgements:
+We would like to thank the EU funding body for their support,
+which we may never receive again if things continue the way
+they are going.
