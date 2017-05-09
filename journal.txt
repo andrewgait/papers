@@ -14,6 +14,11 @@ science.
 J. Smith et al 2011 attempted to investigate question X,
 but further work is needed.
 
+Methodology:
+A state of the art aerosol mass spectrometer was used to measure
+chemical composition and mass concentrations, as described in
+Allen et al 2004.
+
 Simulations:
 Simulations of SOA were made using an atmospheric
-model.  
+model.

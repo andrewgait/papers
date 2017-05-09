@@ -3,3 +3,6 @@ Paper on aerosol measurements.
 
 J. Smith et al 2011
 Another paper on aerosol measurements.
+
+Allen et al 2004
+First paper on the Aerosol mass spectrometer.
