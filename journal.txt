@@ -4,6 +4,9 @@ Gerard Capes, John Smith
 Title:
 Measurements and simulations of secondary organic aerosols from BVOC
 
+Abstract:
+We present here findings from a model-measurement comparison study.
+
 Introduction:
 This paper presents measurements of 
 secondary organic aerosols, formed from
