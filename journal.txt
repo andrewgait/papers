@@ -1,5 +1,5 @@
 Author:
-Gerard Capes, John Smith
+John Smith, Gerard Capes
 
 Title:
 Measurements and simulations of secondary organic aerosols from BVOC
