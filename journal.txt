@@ -1,4 +1,5 @@
-Author:
+Authors:
+Andrew Gait, University of Manchester
 Oliver Rhodes, University of Manchester
 John Smith, University of Elsewhere
 Gerard Capes, University of Manchester
