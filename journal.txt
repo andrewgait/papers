@@ -8,6 +8,8 @@ Introduction:
 This paper presents measurements of 
 secondary organic aerosols, formed from
 biological VOC emissions.
-J. Bloggs et al have made some lovely measurements
+J. Bloggs et al 2010 have made some lovely measurements
 but they haven't answered question X about the
 science.
+J. Smith et al 2011 attempted to investigate question X,
+but further work is needed.
