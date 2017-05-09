@@ -2,7 +2,7 @@ Author:
 Gerard Capes
 
 Title:
-Measurements of organic aerosols
+Measurements of secondary organic aerosols from BVOC
 
 Introduction:
 This paper presents measurements of 
