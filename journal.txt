@@ -1,8 +1,8 @@
 Author:
-Gerard Capes
+Gerard Capes, John Smith
 
 Title:
-Measurements of organic aerosols
+Measurements and simulations of organic aerosols
 
 Introduction:
 This paper presents measurements of 
