@@ -16,4 +16,4 @@ but further work is needed.
 
 Simulations:
 Simulations of SOA were made using an atmospheric
-model.  
+model.  They were run on an HPC machine at the University of Manchester. 
